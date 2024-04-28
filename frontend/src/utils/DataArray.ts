@@ -1,0 +1,1 @@
+export const StatusData = ['All','Pending', 'Approved', 'Cancelled']
